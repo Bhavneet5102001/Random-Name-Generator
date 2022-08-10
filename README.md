@@ -1,2 +1,2 @@
-# Random-Number-Generator
+# Random-Name-Generator
 Used Html,Css,JS
